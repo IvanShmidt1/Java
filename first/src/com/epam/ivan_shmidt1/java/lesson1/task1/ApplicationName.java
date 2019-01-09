@@ -10,8 +10,8 @@ public class ApplicationName {
     public void startApplication() {
         int sum = 0;
         int min = 0;
-        int result = 0;
-        int arifmetic;
+        double result = 0;
+        double arifmetic;
         int[] arrayMain;
         arrayMain = new int[20];
 
@@ -31,9 +31,9 @@ public class ApplicationName {
         System.out.println("Сумма элементов, состоящих на чётных позициях: \n" + sum);
 
         int[] arrayTask3 = Arrays.copyOf(arrayMain, arrayMain.length); //копирование массива
-        for (int i = 0; i < arrayTask3.length; i++){
-            if(arrayTask3[i] <= 0) {
-                arrayTask3[i] = 0;
+        for (int j = 0; j < arrayTask3.length; j++){
+            if(arrayTask3[j] <= 0) {
+                arrayTask3[j] = 0;
             }
         }
         System.out.println("==============================================");
@@ -61,6 +61,8 @@ public class ApplicationName {
         result = result / 20;
         System.out.println("==============================================");
         System.out.println(" Среднее арифметическое arrayTask3: \n " + result);
+
+
 
     }
 }
