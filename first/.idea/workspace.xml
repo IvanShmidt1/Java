@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c084bc57-e17a-4ed0-bd6b-346cc9e86665" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/first/com/epam/ivan_shmidt1/java/lesson1/task1/ApplicationName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/first/com/epam/ivan_shmidt1/java/lesson1/task1/ApplicationName.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/epam/ivan_shmidt1/java/lesson1/task1/ApplicationName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/epam/ivan_shmidt1/java/lesson1/task1/ApplicationName.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -168,7 +165,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547025222115" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547025398409" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -244,6 +241,14 @@
       <option name="presentableId" value="Default" />
       <updated>1545998925315</updated>
     </task>
+    <task id="LOCAL-00001" summary="Rakamakafo (test commit from IDEA)">
+      <created>1547025385500</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547025385500</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -277,6 +282,10 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Rakamakafo (test commit from IDEA)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rakamakafo (test commit from IDEA)" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
