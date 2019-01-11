@@ -13,10 +13,12 @@ public class ApplicationName {
         arrayMain = new int[20];
 //
 //
+//
         for (int i = 0; i <arrayMain.length ; i++) {
             arrayMain[i] = ((int) (Math.random() * 21) -10);
         }
         System.out.println(" Исходный Массив чисел (рандомный) arrayMain: \n " + Arrays.toString(arrayMain));
+//
 //
 //
         int sum = 0;
@@ -28,6 +30,7 @@ public class ApplicationName {
         }
         System.out.println("==============================================");
         System.out.println("Сумма элементов, состоящих на чётных позициях: \n" + sum);
+//
 //
 //
         int[] arrayTask3 = Arrays.copyOf(arrayMain, arrayMain.length); //копирование массива
@@ -62,12 +65,14 @@ public class ApplicationName {
         System.out.println("Разница между средним арифметическим и значением минимального элемента: \n " + arifmetic);
 //
 //
+//
         for(int i = 0; i < 20; i++){
             result += arrayTask3[i];
         }
         result = result / 20;
         System.out.println("==============================================");
         System.out.println(" Среднее арифметическое arrayTask3: \n " + result);
+//
 //
 //
         int min1 = 0;
